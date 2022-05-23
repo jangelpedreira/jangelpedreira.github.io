@@ -83,6 +83,7 @@ var ie = (function() {
     };
 
     setLocale();
+    
     window.apiUrl = 'https://js.arcgis.com/3.40';
 
 
@@ -105,6 +106,8 @@ var ie = (function() {
       // window.path + 'libs/goldenlayout/goldenlayout-base.css',
       // window.path + 'libs/goldenlayout/goldenlayout-light-theme.css'
     ]);
+
+    console.log("WINDOW.APIURL" + window.apiUrl)
 
     if (window.apiUrl.substr(window.apiUrl.length - 'arcgis-js-api/'.length,
       'arcgis-js-api/'.length) === 'arcgis-js-api/') {
