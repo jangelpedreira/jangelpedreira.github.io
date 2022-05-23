@@ -1,0 +1,243 @@
+{
+  "selectionColor": "#00FFFF",
+  "selectionMode": "partial",
+  "enableByDefault": true,
+  "allowExport": true,
+  "includeRuntimeLayers": true,
+  "geometryTypes": [
+    "EXTENT"
+  ],
+  "layerState": {
+    "SEGAMB_2555": {
+      "selected": false
+    },
+    "SEGAMB_2555_0": {
+      "selected": false
+    },
+    "SEGAMB_2555_23": {
+      "selected": false
+    },
+    "SEGAMB_2555_49": {
+      "selected": false
+    },
+    "SEGAMB_2555_77": {
+      "selected": false
+    },
+    "SEGAMB_2555_1": {
+      "selected": false
+    },
+    "SEGAMB_2555_7": {
+      "selected": false
+    },
+    "SEGAMB_2555_2": {
+      "selected": true
+    },
+    "SEGAMB_2555_3": {
+      "selected": true
+    },
+    "SEGAMB_2555_4": {
+      "selected": false
+    },
+    "SEGAMB_2555_5": {
+      "selected": false
+    },
+    "SEGAMB_2555_6": {
+      "selected": false
+    },
+    "SEGAMB_2555_8": {
+      "selected": true
+    },
+    "SEGAMB_2555_9": {
+      "selected": false
+    },
+    "SEGAMB_2555_16": {
+      "selected": true
+    },
+    "SEGAMB_2555_17": {
+      "selected": true
+    },
+    "SEGAMB_2555_18": {
+      "selected": true
+    },
+    "SEGAMB_2555_19": {
+      "selected": false
+    },
+    "SEGAMB_2555_20": {
+      "selected": false
+    },
+    "SEGAMB_2555_10": {
+      "selected": true
+    },
+    "SEGAMB_2555_11": {
+      "selected": true
+    },
+    "SEGAMB_2555_12": {
+      "selected": true
+    },
+    "SEGAMB_2555_13": {
+      "selected": true
+    },
+    "SEGAMB_2555_14": {
+      "selected": true
+    },
+    "SEGAMB_2555_15": {
+      "selected": true
+    },
+    "SEGAMB_2555_21": {
+      "selected": false
+    },
+    "SEGAMB_2555_22": {
+      "selected": false
+    },
+    "SEGAMB_2555_24": {
+      "selected": false
+    },
+    "SEGAMB_2555_29": {
+      "selected": false
+    },
+    "SEGAMB_2555_33": {
+      "selected": false
+    },
+    "SEGAMB_2555_42": {
+      "selected": false
+    },
+    "SEGAMB_2555_48": {
+      "selected": false
+    },
+    "SEGAMB_2555_25": {
+      "selected": false
+    },
+    "SEGAMB_2555_26": {
+      "selected": false
+    },
+    "SEGAMB_2555_27": {
+      "selected": false
+    },
+    "SEGAMB_2555_28": {
+      "selected": false
+    },
+    "SEGAMB_2555_30": {
+      "selected": false
+    },
+    "SEGAMB_2555_31": {
+      "selected": false
+    },
+    "SEGAMB_2555_32": {
+      "selected": false
+    },
+    "SEGAMB_2555_34": {
+      "selected": false
+    },
+    "SEGAMB_2555_35": {
+      "selected": false
+    },
+    "SEGAMB_2555_36": {
+      "selected": false
+    },
+    "SEGAMB_2555_37": {
+      "selected": false
+    },
+    "SEGAMB_2555_38": {
+      "selected": false
+    },
+    "SEGAMB_2555_39": {
+      "selected": false
+    },
+    "SEGAMB_2555_40": {
+      "selected": false
+    },
+    "SEGAMB_2555_41": {
+      "selected": false
+    },
+    "SEGAMB_2555_43": {
+      "selected": false
+    },
+    "SEGAMB_2555_44": {
+      "selected": false
+    },
+    "SEGAMB_2555_45": {
+      "selected": false
+    },
+    "SEGAMB_2555_46": {
+      "selected": false
+    },
+    "SEGAMB_2555_47": {
+      "selected": false
+    },
+    "SEGAMB_2555_50": {
+      "selected": false
+    },
+    "SEGAMB_2555_64": {
+      "selected": false
+    },
+    "SEGAMB_2555_51": {
+      "selected": false
+    },
+    "SEGAMB_2555_52": {
+      "selected": false
+    },
+    "SEGAMB_2555_53": {
+      "selected": false
+    },
+    "SEGAMB_2555_54": {
+      "selected": false
+    },
+    "SEGAMB_2555_55": {
+      "selected": false
+    },
+    "SEGAMB_2555_56": {
+      "selected": false
+    },
+    "SEGAMB_2555_60": {
+      "selected": false
+    },
+    "SEGAMB_2555_57": {
+      "selected": false
+    },
+    "SEGAMB_2555_58": {
+      "selected": false
+    },
+    "SEGAMB_2555_59": {
+      "selected": false
+    },
+    "SEGAMB_2555_61": {
+      "selected": false
+    },
+    "SEGAMB_2555_62": {
+      "selected": false
+    },
+    "SEGAMB_2555_63": {
+      "selected": false
+    },
+    "SEGAMB_2555_65": {
+      "selected": false
+    },
+    "SEGAMB_2555_68": {
+      "selected": false
+    },
+    "SEGAMB_2555_75": {
+      "selected": false
+    },
+    "SEGAMB_2555_76": {
+      "selected": false
+    },
+    "SEGAMB_2555_66": {
+      "selected": false
+    },
+    "SEGAMB_2555_67": {
+      "selected": false
+    },
+    "SEGAMB_2555_78": {
+      "selected": false
+    },
+    "SEGAMB_2555_79": {
+      "selected": false
+    },
+    "SEGAMB_2555_80": {
+      "selected": false
+    },
+    "SEGAMB_2555_81": {
+      "selected": false
+    }
+  }
+}
