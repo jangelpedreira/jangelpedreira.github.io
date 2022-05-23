@@ -83,6 +83,8 @@ var ie = (function() {
     };
 
     setLocale();
+    window.apiUrl = 'https://js.arcgis.com/3.40';
+
 
     if(window.isRTL){
       dojoConfig.has['dojo-bidi'] = true;
